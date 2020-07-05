@@ -1,0 +1,1126 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .main-menu ul li a {
+    padding: 40px 12px;
+  }
+
+  .sticky-menu .header-area .main-menu ul li a {
+    padding: 30px 12px;
+  }
+
+  .slider-title h1 {
+    font-size: 120px;
+  }
+
+  .title-shape {
+    bottom: 279px;
+    left: 197px;
+  }
+
+  .slider-active button.slick-arrow {
+    height: 80px;
+    width: 80px;
+  }
+
+  .about-images img {
+    left: 35px;
+    height: 380px;
+    width: 380px;
+    margin-top: 65px;
+  }
+
+  .about-images-2 {
+    top: 0;
+    left: -11px;
+    margin-top: 60px;
+  }
+
+  .section-shape {
+    left: 415px;
+    bottom: 48px;
+  }
+
+  .review p {
+    font-size: 12px;
+  }
+
+  .review p::before {
+    left: 114px;
+  }
+
+  .menu-prices-2 {
+    margin-left: 10px;
+  }
+
+  .menu-prices-1 {
+    margin-right: 10px;
+  }
+
+  .price-bread h3::before {
+    width: 52%;
+  }
+
+  .price-salad h3::before {
+    width: 54%;
+  }
+
+  .price-bbg h3::before {
+    width: 42%;
+  }
+
+  .price-pizza h3::before {
+    width: 41%;
+  }
+
+  .price-chicken h3::before {
+    width: 29%;
+  }
+
+  .price-mealball h3::before {
+    width: 43%;
+  }
+
+  .price-chocolate h3::before {
+    width: 30%;
+  }
+
+  .price-cappucino h3::before {
+    width: 58%;
+  }
+
+  .price-beer h3::before {
+    width: 51%;
+  }
+
+  .price-wine h3::before {
+    width: 33%;
+  }
+
+  .single-slider {
+    min-height: 720px;
+  }
+
+  .slider-content {
+    margin-top: 300px;
+  }
+
+  .slider-active button.slick-arrow {
+    top: 350px;
+  }
+
+  .cook-title h2 {
+    font-size: 28px;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    bottom: 2px;
+    left: -2px;
+    height: 299px;
+    width: 294px;
+  }
+
+  .stuff-para p {
+    font-size: 14px;
+    color: #404040;
+  }
+
+  .buy-button {
+    float: right;
+    margin-top: 115px;
+  }
+
+  .blog-left {
+    height: 230px;
+    width: 50%;
+  }
+
+  .blog-right {
+    height: 230px;
+    width: 50%;
+  }
+
+  .blog-info {
+    padding: 50px 0;
+  }
+
+  .blog-main-link {
+    margin-top: 100px;
+  }
+
+  .blog-area {
+    height: 1050px;
+  }
+
+  .social-img {
+    margin-right: 5px;
+  }
+
+  .social-wrapper-middle {
+    width: 300px;
+  }
+
+  .opening-day {
+    width: 288px;
+  }
+
+  .opening-day span {
+    position: absolute;
+    right: 20px;
+    color: #a6a6a6;
+  }
+
+  .social-times {
+    padding-left: 40px;
+  }
+
+  .social-para p {
+    font-size: 12px;
+    color: #595959;
+    margin: 0;
+    margin-bottom: 0px;
+    margin-bottom: 20px;
+  }
+
+  .contact-title h2::before {
+    left: 115px;
+  }
+
+  .contact-title h2::after {
+    right: 115px;
+  }
+
+  .social-left {
+    margin-left: -5px;
+  }
+
+  .social-wrapper-middle {
+    margin-left: -20px;
+  }
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .header-wrapper {
+    margin-right: -50px;
+    margin-left: -50px;
+  }
+
+  .main-menu ul li a {
+    padding: 38px 9px;
+  }
+
+  .sticky-menu .header-area .main-menu ul li a {
+    padding: 35px 9px;
+  }
+
+  .slider-title h1 {
+    font-size: 130px;
+  }
+
+  .title-shape {
+    left: 235px;
+  }
+
+  .single-slider {
+    min-height: 720px;
+  }
+
+  .slider-content {
+    margin-top: 285px;
+  }
+
+  .main-menu ul li ul.sub-menu {
+    width: 130px;
+  }
+
+  .about-images-2 {
+    position: absolute;
+    top: 0;
+    left: 100px;
+  }
+
+  .about-images {
+    margin-bottom: 50px;
+  }
+
+  .section-shape {
+    left: 300px;
+  }
+
+  .review-content-1 {
+    margin-left: 0px;
+    margin-bottom: 20px;
+  }
+
+  .review-content-2 {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .review p {
+    font-size: 13px;
+  }
+
+  .review p::before {
+    left: 120px;
+  }
+
+  .menu-prices-2 {
+    margin-left: 0;
+  }
+
+  .price-bread h3::before {
+    width: 67%;
+  }
+
+  .price-salad h3::before {
+    width: 69%;
+  }
+
+  .price-bbg h3::before {
+    width: 61%;
+  }
+
+  .price-pizza h3::before {
+    width: 63%;
+  }
+
+  .price-chicken h3::before {
+    width: 55%;
+  }
+
+  .price-mealball h3::before {
+    width: 64%;
+  }
+
+  .price-chocolate h3::before {
+    width: 53%;
+  }
+
+  .price-cappucino h3::before {
+    width: 71%;
+  }
+
+  .price-beer h3::before {
+    width: 69%;
+  }
+
+  .price-wine h3::before {
+    width: 57%;
+  }
+
+  .menu-img {
+    margin-top: -5px;
+  }
+
+  .cook-content {
+    margin-top: -15px;
+  }
+
+  .menu-prices-1 {
+    margin-right: 0;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    left: 195px;
+  }
+
+  .stuff-para p {
+    padding: 0px 105px;
+  }
+
+  .buy-content h2 {
+    font-size: 25px;
+  }
+
+  .buy-button a {
+    font-size: 15px;
+    padding: 14px 45px;
+  }
+
+  .buy-button {
+    margin-top: -51px;
+  }
+
+  .protfolio img {
+    height: 230px;
+    width: 100%;
+  }
+
+  .blog-left {
+    height: 200px;
+  }
+
+  .blog-right {
+    height: 200px;
+  }
+
+  .blog-main-link {
+    margin-top: 95px;
+  }
+
+  .blog-info {
+    padding: 30px 0;
+  }
+
+  .blog-area {
+    height: 990px;
+  }
+
+  .contact-title h2::before {
+    width: 250px;
+    left: 0px;
+  }
+
+  .contact-title h2::after {
+    width: 248px;
+    right: 0px;
+  }
+
+  .social-area {
+    height: 780px;
+  }
+
+  .opening-day span {
+    right: 25px;
+  }
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .header-area .logo {
+    padding-top: 20px;
+  }
+
+  .slider-title h1 {
+    font-size: 110px;
+  }
+
+  .buy-button {
+    margin-top: -54px;
+  }
+
+  .single-slider {
+    min-height: 720px;
+  }
+
+  .slider-content {
+    margin-top: 260px;
+  }
+
+  .title-shape {
+    bottom: 278px;
+    left: 161px;
+  }
+
+  .about-images {
+    margin-bottom: 55px;
+  }
+
+  .review-content-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .review-content-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .review p::before {
+    left: 40%;
+    top: 107px;
+  }
+
+  .menu-prices-2 {
+    margin-left: 0;
+  }
+
+  .cook-title h2 {
+    font-size: 30px;
+  }
+
+  .menu-prices-1 {
+    margin-right: 0;
+  }
+
+  .price-bread h3::before {
+    width: 59%;
+  }
+
+  .price-chocolate h3::before {
+    width: 40%;
+  }
+
+  .price-cappucino h3::before {
+    width: 64%;
+  }
+
+  .price-beer h3::before {
+    width: 58%;
+  }
+
+  .price-wine h3::before {
+    width: 43%;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    left: 105px;
+  }
+
+  .stuff-para p {
+    font-size: 16px;
+    color: #404040;
+    padding: 0 65px;
+  }
+
+  .buy-content h2 {
+    font-size: 20px;
+  }
+
+  .buy-button a {
+    font-size: 15px;
+    padding: 14px 29px;
+  }
+
+  .protfolio img {
+    height: 230px;
+    width: 100%;
+  }
+
+  .blog-left {
+    height: 200px;
+  }
+
+  .blog-right {
+    height: 200px;
+  }
+
+  .blog-info {
+    padding: 30px 0;
+  }
+
+  .blog-main-link {
+    margin-top: 90px;
+  }
+
+  .blog-area {
+    height: 1500px;
+  }
+
+  .contact-info {
+    width: 100%;
+  }
+
+  .contact-shape {
+    left: 190px;
+  }
+
+  .section-shape {
+    left: 190px;
+  }
+
+  .contact-title h2::after {
+    width: 161px;
+    right: -9px;
+    top: 21px;
+  }
+
+  .contact-title h2::before {
+    width: 163px;
+    left: -11px;
+    top: 20px;
+  }
+
+  .contact-area {
+    padding-bottom: 750px;
+  }
+
+  .form-submit {
+    margin-top: 30px;
+  }
+
+  .footer-title {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .footer-title h2 {
+    margin: 0;
+  }
+
+  .footer-details {
+    margin-top: 10px;
+  }
+}
+
+/* Extra small Device. */
+@media (max-width: 576px) {
+  .slider-title h1 {
+    font-size: 93px;
+  }
+
+  .header-wrapper .logo {
+    margin-top: 20px;
+  }
+
+  .title-shape {
+    bottom: 278px;
+    left: 155px;
+  }
+
+  .single-slider {
+    min-height: 720px;
+  }
+
+  .slider-content {
+    margin-top: 250px;
+  }
+
+  .section-shape {
+    left: 185px;
+  }
+
+  .about-images {
+    margin-right: 70px;
+    margin-bottom: 55px;
+  }
+
+  .review-area {
+    height: 800px;
+  }
+
+  .review-content-1 {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0 45px;
+  }
+
+  .review-content-2 {
+    margin-top: 50px;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 0 45px;
+  }
+
+  .menu-prices-2 {
+    margin-left: 0;
+  }
+
+  .menu-prices-1 {
+    margin-right: 0;
+  }
+
+  .price-bread h3::before {
+    width: 55%;
+  }
+
+  .price-salad h3::before {
+    width: 57%;
+  }
+
+  .price-bbg h3::before {
+    width: 45%;
+  }
+
+  .price-pizza h3::before {
+    width: 45%;
+  }
+
+  .price-chicken h3::before {
+    width: 34%;
+  }
+
+  .price-mealball h3::before {
+    width: 46%;
+  }
+
+  .price-chocolate h3::before {
+    width: 35%;
+  }
+
+  .price-beer h3::before {
+    width: 53%;
+  }
+
+  .price-cappucino h3::before {
+    width: 60%;
+  }
+
+  .price-wine h3::before {
+    width: 37%;
+  }
+
+  .cook-title h2 {
+    font-size: 27px;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    left: 85px;
+  }
+
+  .stuff-para p {
+    padding: 0 45px;
+  }
+
+  .buy-content h2 {
+    font-size: 27px;
+  }
+
+  .buy-content {
+    margin-top: 45px;
+  }
+
+  .buy-button {
+    float: none;
+    margin-top: 67px;
+    text-align: center;
+  }
+
+  .buy-button a {
+    padding: 15px 52px;
+  }
+
+  .protfolio {
+    height: 250px;
+    width: 100%;
+  }
+
+  .protfolio img {
+    height: 250px;
+    width: 100%;
+  }
+
+  .gallary {
+    margin-top: 50px;
+  }
+
+  .blog-left {
+    height: 180px;
+  }
+
+  .blog-right {
+    height: 180px;
+  }
+
+  .blog-info {
+    padding: 25px 0;
+  }
+
+  .blog-main-link {
+    margin-top: 80px;
+  }
+
+  .blog-wrapper {
+    margin-top: 30px;
+  }
+
+  .blog-area {
+    height: 1300px;
+  }
+
+  .contact-title h2::before {
+    width: 135px;
+    left: 0;
+    top: 20px;
+  }
+
+  .contact-title h2::after {
+    width: 134px;
+    right: 0;
+    top: 20px;
+  }
+
+  .contact-info {
+    width: 90%;
+  }
+
+  .contact-area {
+    padding-bottom: 750px;
+  }
+
+  .form-submit {
+    margin-top: 30px;
+  }
+
+  .footer-title {
+    margin-top: 22px;
+    margin-left: 0px;
+    text-align: center;
+  }
+
+  .footer-details {
+    margin-top: 0px;
+    float: none;
+    margin-right: 34px;
+    text-align: center;
+  }
+}
+
+/* mobile Device. */
+@media (max-width: 470px) {
+  .slider-title h1 {
+    font-size: 80px;
+  }
+
+  .title-shape {
+    left: 126px;
+  }
+
+  .section-shape {
+    left: 155px;
+  }
+
+  .review p {
+    font-size: 13px;
+  }
+
+  .review p::before {
+    left: 132px;
+  }
+
+  .about-btn .btn {
+    padding: 18px 50px;
+  }
+
+  .cook-title h2 {
+    font-size: 25px;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    left: 50px;
+  }
+
+  .buy-button {
+    margin-top: 30px;
+  }
+
+  .contact-title h2::before {
+    width: 101px;
+  }
+
+  .contact-title h2::after {
+    width: 100px;
+  }
+}
+
+/* mobile Device. */
+@media (max-width: 420px) {
+  .single-slider {
+    min-height: 700px;
+  }
+
+  .title-shape {
+    left: 110px;
+  }
+
+  .about-images-2 img {
+    height: 150px;
+    width: 150px;
+  }
+
+  .about-btn .btn {
+    padding: 18px 40px;
+  }
+
+  .review p::before {
+    left: 113px;
+  }
+
+  .section-shape {
+    left: 145px;
+  }
+
+  .menu-img {
+    margin-top: 15px;
+  }
+
+  .menu-price {
+    margin-left: 15px;
+  }
+
+  .price-bread h3::before {
+    width: 44%;
+  }
+
+  .price-salad h3::before {
+    width: 46%;
+  }
+
+  .price-bbg h3::before {
+    width: 33%;
+  }
+
+  .price-pizza h3::before {
+    width: 32%;
+  }
+
+  .price-chicken h3::before {
+    width: 17%;
+  }
+
+  .price-mealball h3::before {
+    width: 34%;
+  }
+
+  .price-chocolate h3::before {
+    width: 19%;
+  }
+
+  .price-cappucino h3::before {
+    width: 50%;
+  }
+
+  .price-beer h3::before {
+    width: 42%;
+  }
+
+  .price-wine h3::before {
+    width: 22%;
+  }
+
+  .cook-title h2 {
+    font-size: 22px;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    left: 35px;
+  }
+
+  .stuff-para p {
+    padding: 0 29px;
+  }
+
+  .contact-title h2::before {
+    width: 88px;
+  }
+
+  .contact-title h2::after {
+    width: 85px;
+  }
+}
+
+@media (max-width: 414px) {
+  .stuff-content .stuff-image .dark-overlay {
+    left: 43px;
+  }
+}
+
+@media (max-width: 350px) {
+  .slider-title h1 {
+    font-size: 65px;
+  }
+
+  .slick-slide img {
+    height: 50px;
+  }
+
+  .title-shape {
+    left: 103px;
+  }
+
+  .title-shape {
+    bottom: 290px;
+  }
+
+  .section-shape {
+    left: 110px;
+  }
+
+  .about-images-2 img {
+    height: 120px;
+    width: 120px;
+  }
+
+  .about-btn .btn {
+    padding: 18px 28px;
+  }
+
+  .review-content-1 {
+    padding: 0 20px;
+  }
+
+  .review-content-2 {
+    padding: 0 20px;
+  }
+
+  .price-bread h3::before {
+    width: 35%;
+  }
+
+  .price-salad h3::before {
+    width: 38%;
+  }
+
+  .price-bbg h3::before {
+    width: 21%;
+  }
+
+  .price-pizza h3::before {
+    width: 20%;
+  }
+
+  .price-chicken h3::before {
+    width: 5%;
+  }
+
+  .price-mealball h3::before {
+    width: 22%;
+  }
+
+  .price-chocolate h3::before {
+    width: 6%;
+  }
+
+  .price-cappucino h3::before {
+    width: 42%;
+  }
+
+  .price-beer h3::before {
+    width: 33%;
+  }
+
+  .price-wine h3::before {
+    width: 10%;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    left: 10px;
+  }
+
+  .stuff-para p {
+    padding: 0 0px;
+  }
+
+  .buy-content h2 {
+    font-size: 23px;
+  }
+
+  .contact-title h2::before {
+    width: 60px;
+  }
+
+  .contact-title h2::after {
+    width: 63px;
+  }
+}
+
+@media (max-width: 350px) {
+  .review p {
+    padding: 35px 7px;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    left: 0px;
+  }
+
+  .contact-title h2::before {
+    width: 52px;
+  }
+
+  .contact-title h2::after {
+    width: 53px;
+  }
+}
+
+@media (max-width: 375px) {
+  .slider-title h1 {
+    font-size: 68px;
+  }
+
+  .section-shape {
+    left: 127px;
+  }
+
+  .review p {
+    padding: 35px 4px;
+  }
+
+  .about-btn .btn {
+    padding: 18px 33px;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    left: 23px;
+  }
+
+  .stuff-para p {
+    padding: 0 5px;
+  }
+
+  .contact-title h2::before {
+    width: 77px;
+  }
+
+  .contact-title h2::after {
+    width: 74px;
+  }
+
+  .blog-info {
+    padding: 16px 0;
+  }
+
+  .blog-info h3 {
+    font-size: 11px;
+  }
+
+  .title-shape {
+    left: 99px;
+  }
+}
+
+@media (max-width: 360px) {
+  .slider-title h1 {
+    font-size: 65px;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    left: 15px;
+  }
+
+  .title-shape {
+    left: 103px;
+    bottom: 294px;
+  }
+
+  .slick-slide img {
+    height: 50px;
+  }
+
+  .section-shape {
+    left: 118px;
+  }
+
+  .about-btn .btn {
+    padding: 18px 32px;
+  }
+
+  .review p {
+    font-size: 11px;
+  }
+
+  .review p::before {
+    left: 93px;
+  }
+
+  .stuff-content .stuff-image .dark-overlay {
+    left: 15px;
+  }
+
+  .stuff-para p {
+    padding: 0 1px;
+  }
+
+  .contact-title h2::before {
+    width: 67px;
+  }
+
+  .contact-title h2::after {
+    width: 66px;
+  }
+}
+
+/* By Kazi Talat Hridoy */
